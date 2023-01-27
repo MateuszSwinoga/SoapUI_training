@@ -428,7 +428,7 @@
    <soapenv:Header/>\r
    <soapenv:Body>\r
       <tem:Subtract>\r
-         <tem:intA>-500</tem:intA>\r
+         <tem:intA>-400</tem:intA>\r
          <tem:intB>0</tem:intB>\r
       </tem:Subtract>\r
    </soapenv:Body>\r
